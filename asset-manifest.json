@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b3bf149.css",
+    "main.js": "/static/js/main.3cd20813.js",
+    "static/js/787.226c5787.chunk.js": "/static/js/787.226c5787.chunk.js",
+    "static/media/rorogue_lib_bg.wasm": "/static/media/rorogue_lib_bg.91e5466ff35f04a99f4a.wasm",
+    "index.html": "/index.html",
+    "main.4b3bf149.css.map": "/static/css/main.4b3bf149.css.map",
+    "main.3cd20813.js.map": "/static/js/main.3cd20813.js.map",
+    "787.226c5787.chunk.js.map": "/static/js/787.226c5787.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b3bf149.css",
+    "static/js/main.3cd20813.js"
+  ]
+}
